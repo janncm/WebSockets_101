@@ -1,2 +1,2 @@
 # WebSockets_101
-First try of WebSockets in python
+First attempt with WebSockets on python
